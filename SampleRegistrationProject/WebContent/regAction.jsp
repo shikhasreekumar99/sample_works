@@ -9,6 +9,7 @@ try
 	String quali=request.getParameter("quali").toString();
 	String username=request.getParameter("username").toString();
 	String password=request.getParameter("pass").toString();
+
 	//CONNECTION TO DATABASE IS CREATED
 	
 	Class.forName("com.mysql.jdbc.Driver");  
