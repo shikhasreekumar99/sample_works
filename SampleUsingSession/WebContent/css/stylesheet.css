@@ -1,0 +1,53 @@
+div
+{
+	border: solid;
+}
+.a
+{
+	width: 500px;
+	height: 600px;
+	margin: auto;
+}
+.b
+{
+	width:400px;
+	height:50px;
+	margin-left:30px;
+	margin-top: 20px;
+}
+.c
+{
+	width:400px;
+	height:50px;
+	margin-left:30px;
+	margin-top:20px;
+}
+
+.d
+{
+	width:400px;
+	height:50px;
+	margin-left:30px;
+	margin-top:20px;
+}
+
+.e
+{
+	width:400px;
+	height:50px;
+	margin-left:30px;
+	margin-top: 20px;
+}
+.f
+{
+	width:400px;
+	height:50px;
+	margin-left:30px;
+	margin-top: 10px;
+}
+.button
+{
+	width: 400px;
+	height:50px;
+	background-color:white;
+}
